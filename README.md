@@ -10,11 +10,11 @@ Decision structures where used to determine the type of element currently being 
 There is a function written to handle each different part of the syntax. Attribute parsing, tag parsing and self closing tags all have their own respective functions for handling them.
 
 ## Files and Exceptions (Chapter 6)
-File loading is used to grab the markup
+File loading is used to grab the markup.
 
 ## Lists and Tuples (Chapter 7)
 Tokens are stored in a list as they are parsed.
 
 ## Dictionaries and Sets (Chapter 9)
-Attributes are stored as a dictionary
+Attributes are stored as a dictionary.
 
