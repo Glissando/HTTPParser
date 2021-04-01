@@ -1,7 +1,7 @@
 # HTTPParser
  Final Project for OOP Spring 2020
 
-This a custom parser for parsing through html-like files made for my spring 2020 Object Oriented Programming class. As part of this class I utilized several concept in python from the book Starting Out with python 3rd edition.
+This a custom parser for parsing through html-like files made for my spring 2020 Object Oriented Programming class. As part of this class I utilized several concepts in python from the book Starting Out with python 3rd edition.
 
 ## Decision Structures and Boolean Logic(Chapter 3)
 Decision structures where used to determine the type of element currently being parsed through, whether it was an opening tag, closing tag or self closing tag.
